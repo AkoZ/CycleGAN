@@ -1,5 +1,5 @@
 <img src='imgs/horse2zebra.gif' align="right" width=384>
-
+Et le mieux c'est qu'il y a deux cycleGan en jupyter ! .. ;) voir dasn rep fav AkoZ pro colabs
 <br><br><br>
 
 # CycleGAN
